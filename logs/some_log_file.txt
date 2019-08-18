@@ -1,0 +1,4 @@
+Edit this file in /project dir/logs/some_log_file.txt
+log line 1
+log line 2
+log line 3
